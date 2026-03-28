@@ -1,5 +1,7 @@
-免责声明：本系统计算结果仅供参考，一切应以学校官方文件及教务系统为准。
+免责声明：本工具计算结果仅供参考，一切应以学校官方文件及教务系统为准。
 
 本工具不收集任何用户隐私数据，所有计算均在您的设备本地完成。
 
-Powered by ApricotTherapy with the assistance of Google Gemini. 03.28.2026. Published on Github Pages, Ver 1.4.
+由 ApricotTherapy 在 Google Gemini 的帮助下制作，于 2026 年 3 月 28 日上传至 Github Pages。版本 1.4。禁止用于营利目的。
+
+反馈邮箱：20235701107@smail.lnu.edu.cn。开发者不保证对本工具的后续更新及维护。
